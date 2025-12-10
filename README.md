@@ -81,7 +81,6 @@ Automated build → test → deploy pipeline.
 
 ---
 
----
 
 ## 🏆 Achievements
 ✔ **1st Place Winner** – "Incredible 8" Inter-Hostel Competition (LPU)  
