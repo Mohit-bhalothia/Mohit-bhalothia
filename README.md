@@ -125,7 +125,7 @@ Automated build → test → deploy pipeline.
   </a>
 
   <!-- Replace YOUR_INSTAGRAM_USERNAME with your actual handle -->
-  <a href="https://instagram.com/mohitt_choudharyy">
+  <a href="https://instagram.com/mohitt_choudharyy__">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
