@@ -81,13 +81,6 @@ Automated build → test → deploy pipeline.
 
 ---
 
-### 🔹 Environmental Sustainability UI
-- Improved UX & accessibility  
-- Achieved **70% user engagement growth**
-
-**Tech:** HTML • CSS • JavaScript • Bootstrap  
-⭐ _Impactful UI for real-world sustainability project_
-
 ---
 
 ## 🏆 Achievements
