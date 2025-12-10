@@ -1,14 +1,12 @@
-## Hi there 👋
-
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4CAF50&center=true&vCenter=true&width=650&lines=Hi+There,+I'm+Mohit+Bhalothia!;Frontend+Developer+%7C+Cloud+%26+DevOps+Enthusiast;CI/CD+%7C+Docker+%7C+Kubernetes+%7C+AWS+%7C+Azure" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4CAF50&center=true&vCenter=true&width=650&lines=Hi+There,+I'm+Mohit+Bhalothia!;Cloud+%26+DevOps+Enthusiast;CI/CD+%7C+Docker+%7C+Kubernetes+%7C+AWS+%7C+Azure" />
 </h1>
 
 ---
 
 ## 🚀 About Me  
-I'm a **Cloud/DevOps Enthusiast** passionate about building  
+I'm a **Frontend Developer & Cloud/DevOps Enthusiast** passionate about building  
 **responsive UIs**, automating **CI/CD pipelines**, and deploying scalable systems using  
 **Docker, Kubernetes, AWS, Azure & Terraform**.
 
@@ -50,7 +48,7 @@ I enjoy combining **clean frontend design** with **modern cloud practices** to c
 
 ## 📌 Featured Projects
 
-### 🔹 **CloudOps Pipeline – CI/CD with Docker, Kubernetes & Jenkins**
+### 🔹 CloudOps Pipeline – CI/CD with Docker, Kubernetes & Jenkins
 Automated build → test → deploy pipeline.  
 - Dockerized microservices  
 - Kubernetes orchestration (Minikube/GKE)  
@@ -62,7 +60,7 @@ Automated build → test → deploy pipeline.
 
 ---
 
-### 🔹 **Multi-Cloud Monitoring System – AWS + Azure**
+### 🔹 Multi-Cloud Monitoring System – AWS + Azure
 - Integrated AWS CloudWatch + Azure Monitor  
 - Terraform-based automated provisioning  
 - Real-time alerts via SNS & Azure Alerts  
@@ -73,7 +71,7 @@ Automated build → test → deploy pipeline.
 
 ---
 
-### 🔹 **Car Rental System – Responsive Web App**
+### 🔹 Car Rental System – Responsive Web App
 - Built for fast, clean user experience  
 - Search, filter & booking flow  
 - Boosted efficiency by **50%**
@@ -83,7 +81,7 @@ Automated build → test → deploy pipeline.
 
 ---
 
-### 🔹 **Environmental Sustainability UI**
+### 🔹 Environmental Sustainability UI
 - Improved UX & accessibility  
 - Achieved **70% user engagement growth**
 
@@ -120,13 +118,26 @@ Automated build → test → deploy pipeline.
 ---
 
 ## 📫 Connect With Me  
+
 <p>
-  <a href="mailto:mohitchoudharyat7896@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Mohit-bhalothia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/mohit-bhalothia07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mohitchoudharyat7896@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Mohit-bhalothia">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://linkedin.com/in/mohit-bhalothia07">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <!-- Replace YOUR_INSTAGRAM_USERNAME with your actual handle -->
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
 
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-
