@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a ** Frontend Developer & Cloud/DevOps Enthusiast** passionate about building  
+I'm a **Cloud/DevOps Enthusiast** passionate about building  
 **responsive UIs**, automating **CI/CD pipelines**, and deploying scalable systems using  
 **Docker, Kubernetes, AWS, Azure & Terraform**.
 
