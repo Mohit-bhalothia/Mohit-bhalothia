@@ -1,135 +1,108 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4CAF50&center=true&vCenter=true&width=650&lines=Hi+There,+I'm+Mohit+Bhalothia!;Cloud+%26+DevOps+Enthusiast;CI/CD+%7C+Docker+%7C+Kubernetes+%7C+AWS+%7C+Azure" />
-</h1>
-
----
-
-## 🚀 About Me  
-I'm a **Frontend Developer & Cloud/DevOps Enthusiast** passionate about building  
-**responsive UIs**, automating **CI/CD pipelines**, and deploying scalable systems using  
-**Docker, Kubernetes, AWS, Azure & Terraform**.
-
-I enjoy combining **clean frontend design** with **modern cloud practices** to create impactful, high-performance applications.
-
----
-
-## 🛠️ Tech Stack
-
-### **Frontend**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### **Cloud / DevOps / Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-### **Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 CloudOps Pipeline – CI/CD with Docker, Kubernetes & Jenkins
-Automated build → test → deploy pipeline.  
-- Dockerized microservices  
-- Kubernetes orchestration (Minikube/GKE)  
-- GitHub Webhooks + Jenkins integration  
-- Deployment on AWS EC2 with Prometheus + Grafana  
-
-**Tech:** Jenkins • Docker • Kubernetes • AWS EC2  
-⭐ _End-to-end automated DevOps workflow_
-
----
-
-### 🔹 Multi-Cloud Monitoring System – AWS + Azure
-- Integrated AWS CloudWatch + Azure Monitor  
-- Terraform-based automated provisioning  
-- Real-time alerts via SNS & Azure Alerts  
-- Reduced manual monitoring by **60%**
-
-**Tech:** Terraform • Python (Boto3 + Azure SDK) • AWS • Azure  
-⭐ _Unified dashboard for multi-cloud health_
-
----
-
-### 🔹 Car Rental System – Responsive Web App
-- Built for fast, clean user experience  
-- Search, filter & booking flow  
-- Boosted efficiency by **50%**
-
-**Tech:** HTML • CSS • Bootstrap  
-⭐ _Polished, intuitive UI_
-
----
-
-
-## 🏆 Achievements
-✔ **1st Place Winner** – "Incredible 8" Inter-Hostel Competition (LPU)  
-✔ High-impact frontend improvements across projects  
-
----
-
-## 🎓 Certifications
-- Microsoft Azure Administrator Associate  
-- NPTEL – Internet of Things  
-- Unity Game Development (C#)  
-- ICP Hackathon – Blockseblock  
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi 👋, I'm Mohit Bhalothia</h1>
+<h3 align="center">DevOps & Cloud Engineer | Building automated, scalable, production-grade infrastructure</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mohit-bhalothia&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-bhalothia&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-bhalothia&layout=compact&theme=tokyonight" />
+  <a href="https://linkedin.com/in/mohit-bhalothia07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mohitchoudharyat7896@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📫 Connect With Me  
+### 🚀 About Me
 
+I'm a DevOps and Cloud Engineering practitioner based in Jaipur, India, focused on designing automated, scalable infrastructure across AWS, Azure, and GCP. I build CI/CD pipelines, containerized deployments, and multi-cloud monitoring systems that cut deployment time, improve reliability, and reduce manual overhead.
+
+- 🔭 Currently building production-grade CI/CD pipelines and multi-cloud monitoring solutions
+- 🌱 Deepening expertise in Kubernetes orchestration, Infrastructure as Code, and observability
+- 💡 Passionate about reducing deployment friction and driving operational excellence
+- ⚡ Always exploring the intersection of DevOps and AI/ML infrastructure
+
+---
+
+### 🛠️ Tech Stack
+
+**Cloud Platforms**
 <p>
-  <a href="mailto:mohitchoudharyat7896@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+</p>
 
-  <a href="https://github.com/Mohit-bhalothia">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+**DevOps & Infrastructure**
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+</p>
 
-  <a href="https://linkedin.com/in/mohit-bhalothia07">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+**Languages & Frameworks**
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+</p>
 
-  <!-- Replace YOUR_INSTAGRAM_USERNAME with your actual handle -->
-  <a href="https://instagram.com/mohitt_choudharyy__">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+**Databases & Tools**
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+### 🏗️ Featured Projects
+
+**[AI Hub – Unified Web Platform for Multi-Modal Intelligence Integration](https://github.com/Mohit-bhalothia)**
+Architected a production-grade full-stack platform consolidating 8 AI services (handwriting recognition, summarization, sentiment analysis, image captioning, speech-to-text, text-to-speech, object detection, document processing) into a single web app. Built a three-tier architecture (React.js, FastAPI, PostgreSQL, FAISS) with a RAG pipeline using BERT embeddings for context-aware document Q&A, and containerized every service with Docker for cloud-ready deployment.
+`React.js` `FastAPI` `PostgreSQL` `FAISS` `Docker` `PyTorch` `Hugging Face` `Whisper` `YOLOv5`
+
+**[CloudOps Pipeline – Automated CI/CD with Docker, Kubernetes & Jenkins](https://github.com/Mohit-bhalothia)**
+Designed a Jenkins CI/CD pipeline automating build, test, and deployment for a microservice application — cutting deployment time by 60%. Orchestrated services on Kubernetes (GKE/Minikube) with auto-scaling, rolling updates, and health checks to achieve 99.9% uptime, with real-time monitoring via Prometheus and Grafana.
+`Jenkins` `Docker` `Kubernetes` `AWS EC2` `Prometheus` `Grafana`
+
+**[Multi-Cloud Monitoring System – AWS + Azure Integration](https://github.com/Mohit-bhalothia)**
+Built a multi-cloud monitoring dashboard aggregating metrics from AWS CloudWatch and Azure Monitor via Boto3 and the Azure SDK, reducing manual monitoring effort by 60%. Automated cross-cloud resource provisioning with modular Terraform IaC and implemented real-time alerting, cutting incident detection time by 65%.
+`AWS CloudWatch` `Azure Monitor` `Terraform` `Python` `SNS`
+
+---
+
+### 📜 Certifications
+
+- 🏅 Microsoft Certified: DevOps Engineer Expert — Microsoft (2026)
+- 🏅 Intelligent Agent Software Development — Coursera (2026)
+- 🏅 Applied Data Engineering — Coursera (2025)
+- 🏅 Azure Administrator Associate — Microsoft (2025)
+- 🏅 Internet of Things — NPTEL (2024)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-bhalothia&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-bhalothia&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-bhalothia&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/mohit-bhalothia07"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
+<a href="mailto:mohitchoudharyat7896@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat-square&logo=gmail"/></a>
+</p>
+
+<p align="center"><i>Open to DevOps, Cloud Engineering, and Site Reliability roles.</i></p>
